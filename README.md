@@ -1,4 +1,4 @@
-## Hi👋, i'm Prince Jediel M. Benitez
+# Hi👋, I am **Prince Jediel M. Benitez**
 ----
 
 # 💫 About Me:
