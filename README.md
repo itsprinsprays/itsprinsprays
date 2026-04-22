@@ -1,7 +1,7 @@
 # Hi👋, I am **Prince Jediel M. Benitez**
 ----
 
-# 💫 About Me:
+[# 💫 About Me:
 🔭 I’m currently a Second Year BSIT Student<br>🤝 I’m looking for help with Frontend Designs<br>🌱 I’m currently learning Springboot<br>💬 Ask me about dev, gaming, academic, life<br>📫 How to reach me: prncbntz@gmail.com
 
 
@@ -25,3 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=itsprinsprays&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://gprm.itsvg.in/)
